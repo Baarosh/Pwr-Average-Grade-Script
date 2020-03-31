@@ -27,9 +27,6 @@ validSemesters.forEach(semester => {
 
 // Displaying results
 console.log('---Weighted grade average from two last semesters---')
-console.log(
-  '-If you want to reuse the script, refresh the page (F5) and paste it again-'
-)
 console.log(`Total sum of weighted grades (grade*ECTS) : ${gradeSum}`)
 console.log(`Total sum of ECTS : ${ectsSum}`)
 console.log(`Weighted grade average : ${gradeSum / ectsSum}`)
