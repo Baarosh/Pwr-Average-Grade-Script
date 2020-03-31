@@ -10,3 +10,4 @@ Script that calculates the average grade of your last two semesters at Pwr Unive
 4. Open console (press F12).
 5. Paste whole code from script.js and press Enter.
 6. Average grade will appear in the console.
+7. If you want to reuse the script, refresh the page (F5) and paste it again.
