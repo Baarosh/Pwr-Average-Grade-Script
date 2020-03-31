@@ -21,6 +21,7 @@ validSemesters.forEach(semester => {
   })
 })
 
-console.log(`gradeSum : ${gradeSum}`)
-console.log(`ectsSum : ${ectsSum}`)
-console.log(`Average grade : ${gradeSum / ectsSum}`)
+console.log('---Weighted grade average from two last semesters---')
+console.log(`Total sum of weighted grades (grade*ECTS) : ${gradeSum}`)
+console.log(`Total sum of ECTS : ${ectsSum}`)
+console.log(`Weighted grade average : ${gradeSum / ectsSum}`)
